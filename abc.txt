@@ -2,4 +2,8 @@ Good Evening
 Good Afternoon
 Good Night
 Good Morning
+<<<<<<< Updated upstream
 Good Morning nothing
+=======
+Good Morning All
+>>>>>>> Stashed changes
